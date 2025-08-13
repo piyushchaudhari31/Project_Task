@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+    color: white;
+
+
+}
+.car_companyname h1{
+    font-size: 50px;
+    font-family: Algerian;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    cursor: pointer;
+}
+ul li{
+    font-size: 20px;
+}
+ul li button{
+    padding: 8px 8px;
+    border-radius: 10px;
+}
